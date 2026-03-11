@@ -1,0 +1,25 @@
+
+{
+    "1": {
+        "question": "问题测试1",
+        "questionid": 1,
+        "a": "选项A",
+        "b": "选项B",
+        "c": "选项C",
+        "d": "选项D",
+        "answer": "a",
+        "from": "xxxx",
+        "reference": "https://example.com"
+    },
+    "2": {
+        "question": "问题测试2",
+        "questionid": 2,
+        "a": "选项A",
+        "b": "选项B",
+        "c": "选项C",
+        "d": "选项D",
+        "answer": "b",
+        "from": "xxxxx",
+        "reference": "https://example.com"
+    }
+}
