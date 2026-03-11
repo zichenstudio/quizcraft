@@ -1,3 +1,5 @@
+// Copyright (c) 2026 imoutopia
+// SPDX-License-Identifier: BSD-3-Clause-Clear
 // 保存当前问题ID
 let currentQuestionId = null;
 // 保存问题数据
