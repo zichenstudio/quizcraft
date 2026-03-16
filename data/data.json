@@ -1,24 +1,35 @@
 {
     "1": {
-        "question": "问题测试1",
+        "question": "一格水至多能灌溉多少格耕地？",
         "questionid": 1,
-        "a": "选项A",
-        "b": "选项B",
-        "c": "选项C",
-        "d": "选项D",
-        "answer": "a",
-        "from": "xxxx",
-        "reference": "https://example.com"
+        "a": "24",
+        "b": "35",
+        "c": "63",
+        "d": "80",
+        "answer": "d",
+        "from": "imoutopia",
+        "reference": "https://zh.minecraft.wiki/w/%E8%80%95%E5%9C%B0"
     },
     "2": {
-        "question": "问题测试2",
+        "question": "幻翼（Phantom）会避开什么生物？",
         "questionid": 2,
-        "a": "选项A",
-        "b": "选项B",
-        "c": "选项C",
-        "d": "选项D",
-        "answer": "b",
-        "from": "xxxxx",
-        "reference": "https://example.com"
+        "a": "骷髅",
+        "b": "爬行者",
+        "c": "猫",
+        "d": "兔子",
+        "answer": "c",
+        "from": "imoutopia",
+        "reference": "https://zh.minecraft.wiki/w/%E5%B9%BB%E7%BF%BC"
+    },
+    "3": {
+        "question": "虫蚀药水（Potion of Infestation）需要以下哪种材料制作？",
+        "questionid": 3,
+        "a": "蜘蛛眼",
+        "b": "粘液块",
+        "c": "蜘蛛网",
+        "d": "石头",
+        "answer": "d",
+        "from": "imoutopia",
+        "reference": "https://zh.minecraft.wiki/w/%E8%99%AB%E8%9A%80%E8%8D%AF%E6%B0%B4"
     }
 }

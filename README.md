@@ -62,7 +62,9 @@
 
 ## 许可证
 
-除data/data.json文件外，本项目遵循[BSD-3-Clause-Clear](LICENSE)许可证。data/data.json文件遵循[CC BY 4.0](LICENSE.data)许可证。
+除data/data.json文件外，本项目遵循[BSD-3-Clause-Clear](LICENSE)许可证。
+
+data/data.json文件遵循[CC BY 4.0](LICENSE.data)许可证。
 
 ## 贡献
 
