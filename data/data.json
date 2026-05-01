@@ -31,5 +31,49 @@
         "answer": "d",
         "from": "imoutopia",
         "reference": "https://zh.minecraft.wiki/w/%E8%99%AB%E8%9A%80%E8%8D%AF%E6%B0%B4"
+    },
+    "4": {
+        "question": "小型花共有几种（眼眸花张开闭合算两种）（截止26.1.2）",
+        "questionid": 4,
+        "a": "12",
+        "b": "15",
+        "c": "17",
+        "d": "22",
+        "answer": "c",
+        "from": "imoutopia",
+        "reference": "https://zh.minecraft.wiki/w/%E8%8A%B1"
+    },
+    "5": {
+        "question": "大型花共有几种（截止26.1.2）",
+        "questionid": 5,
+        "a": "2",
+        "b": "5",
+        "c": "7",
+        "d": "2",
+        "answer": "b",
+        "from": "imoutopia",
+        "reference": "https://zh.minecraft.wiki/w/%E8%8A%B1"
+    },
+    "6": {
+        "question": "以下那种生物会生成在蘑菇岛上",
+        "questionid": 6,
+        "a": "僵尸",
+        "b": "兔子",
+        "c": "幻翼",
+        "d": "爬行者",
+        "answer": "c",
+        "from": "imoutopia",
+        "reference": "https://zh.minecraft.wiki/w/%E8%98%91%E8%8F%87%E5%B2%9B"
+    },
+    "7": {
+        "question": "共有多少种染料",
+        "questionid": 7,
+        "a": "16",
+        "b": "22",
+        "c": "32",
+        "d": "64",
+        "answer": "a",
+        "from": "imoutopia",
+        "reference": "https://zh.minecraft.wiki/w/%E6%9F%93%E6%96%99"
     }
 }
